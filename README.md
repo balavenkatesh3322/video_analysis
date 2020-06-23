@@ -1,5 +1,7 @@
 # video_analysis
-This will read data from webcam and capture object names from video 
+Have you used AWS rekognition service for video analysis? 
+I have implemented a small video analysis as aws rekognition using Yolo V3 and OpenCV. It's working pretty well.
+This will read data from video and detect object names. 
 
 Install below required library in your local machine.
 
